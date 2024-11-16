@@ -1,0 +1,6 @@
+[submodule "room-client"]
+	path = client
+	url = git@github.com:arkorty/room-client.git
+[submodule "room-server"]
+	path = server
+	url = git@github.com:arkorty/room-server.git
